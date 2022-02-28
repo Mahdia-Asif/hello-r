@@ -6,4 +6,3 @@ version = "RStudio - in writing "
 
 print(name)
 print("the lines written in r studio")
-
